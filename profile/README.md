@@ -5,4 +5,4 @@
 	<img src="https://chomp-palete.github.io/.github/asets/small-separator.png"/>
 </h3>
 
-<p align="center">Chomp-Palette is a mono color colastel color theme created by ![Alexami](https://github.com/Alexxami)</p>
+<p align="center">Chomp-Palette is a mono color colastel color theme created by <a href="https://github.com/Alexxami">Alexxami</a></p>
