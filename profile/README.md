@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://chomp-palette.github.io/.github/chomp/green-chomp.png" width="100" alt="Logo"/><br/>
+	<img src="https://chomp-palette.github.io/.github/asets/icon.png" width="100" alt="Logo"/><br/>
 	<img src="https://chomp-palette.github.io/.github/asets/mini-banner.png" height="100" alt="/*Mono color patel theme*/..."/><br/>
   <br/>
 	<img src="https://chomp-palette.github.io/.github/asets/small-separator.png"/>
