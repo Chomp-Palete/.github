@@ -15,7 +15,7 @@
 	<!-- Reddit-->
 <a href"https://www.reddit.com/r/chomppalette/"><img src="https://chomp-palette.github.io/.github/asets/reddit.png" width="150" height="150"  alt="banner"/></a>
 	<!--  X/Twitter-->
-<a href"https://x.com/ChompPalette"><img src="https://chomp-palette.github.io/.github/asets/x.png" width="150" height="150"  alt="banner"/></a>
+<a href"https://x.com/ChompPalette"><img src="https://chomp-palette.github.io/.github/asets/logo-x.png" width="150" height="150"  alt="banner"/></a>
 	<!-- Discord-->
 <a href"https://discord.gg/r6ysyNtxYc"><img src="https://chomp-palette.github.io/.github/asets/discord.png" width="150" height="150"  alt="banner"/></a>
 </h3>
